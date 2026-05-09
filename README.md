@@ -54,12 +54,14 @@ Built a touchless gaming control system using real-time hand gesture recognition
 
 LinkedIn: (Add Your LinkedIn Link)
 GitHub: (Add Your GitHub Link)
-Email: satyasaimaheshvaranasi@gmail.com
+Email: [satyasaimaheshvaranasi@gmail.com](mailto:satyasaimaheshvaranasi@gmail.com)
 
 ⭐ GitHub Goals
 • Share AI/ML learning projects
 • Upload backend and intelligent automation systems
 • Build impactful open-source repositories
 • Document my AI engineering journey beautifully
+
+Made with ❤️ by Satya Sai Mahesh
 
 Made with ❤️ by Satya Sai Mahesh
