@@ -68,7 +68,9 @@ Built a touchless gaming control system using real-time hand gesture recognition
 🌐 Connect With Me
 
 LinkedIn: (https://www.linkedin.com/in/satya-sai-mahesh-varanasi-5a16202b9/?skipRedirect=true)
+
 GitHub: (https://github.com/varanasisatya)
+
 Email: [satyasaimaheshvaranasi@gmail.com](mailto:satyasaimaheshvaranasi@gmail.com)
 
 ⭐ GitHub Goals
