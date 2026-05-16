@@ -2,6 +2,12 @@
 ### 🚀 Aspiring AI Engineer | AI/ML Developer | Backend & Computer Vision Enthusiast
 
 <p align="left">
+  <a href="https://satya-sai-ai-portfolio.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20View%20My%20Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -56,7 +62,14 @@ I am a **Computer Science Engineering student specializing in AI/ML**, deeply pa
 
 Let's build something intelligent together! 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-sai-mahesh-varanasi-5a16202b9/?skipRedirect=true)
+<p align="left">
+  <a href="https://satya-sai-ai-portfolio.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal%20Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/satya-sai-mahesh-varanasi-5a16202b9/?skipRedirect=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 <p align="center">🎒 Driven by Data. Powered by Code. Designed for Impact.</p>
